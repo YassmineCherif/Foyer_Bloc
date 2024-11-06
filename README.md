@@ -1,6 +1,5 @@
 # 5SAE1-Foyer-
-![pipeline with Sonar (webhook)](https://github.com/user-attachments/assets/5bee916a-701b-4779-8655-4cbd291d0b4c)
-![jenkins pipeline](https://github.com/user-attachments/assets/f0f87220-34a2-4b50-8307-214f40dc602c)
+
 ![build manuelle](https://github.com/user-attachments/assets/c82c9571-671e-45d2-bf02-08b7b1effb81)
 ![webhook](https://github.com/user-attachments/assets/5aa422f7-dca6-4d86-8e3a-df7491a035f3)
 ![test sans mock](https://github.com/user-attachments/assets/df31a66f-eeb0-4d82-a9ad-ee9aecb41c10)
