@@ -1,5 +1,4 @@
 # 5SAE1-Foyer-
-[Uploading Vagrantfile…]()
 
 ![build manuelle](https://github.com/user-attachments/assets/c82c9571-671e-45d2-bf02-08b7b1effb81)
 ![webhook](https://github.com/user-attachments/assets/5aa422f7-dca6-4d86-8e3a-df7491a035f3)
@@ -17,10 +16,7 @@
 
 
 
-
-Vagrant file : 
-
-# -- mode: ruby --
+[Uploading Vagrantfile…]()# -- mode: ruby --
 # vi: set ft=ruby :
 
 # All Vagrant configuration is done below. The "2" in Vagrant.configure
